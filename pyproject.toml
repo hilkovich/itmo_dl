@@ -15,6 +15,10 @@ tqdm = "^4.67.1"
 scikit-learn = "^1.6.0"
 ipywidgets = "^8.1.5"
 matplotlib = "^3.10.0"
+torchvision = "^0.20.1"
+pytorch-lightning = "^2.5.0.post0"
+tensorboardx = "^2.6.2.2"
+tensorboard = "^2.18.0"
 
 
 [tool.poetry.group.dev.dependencies]
