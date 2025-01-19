@@ -2,3 +2,5 @@
 *.iml
 out
 gen
+/extra_task_2/data/
+/extra_task_2/lightning_logs/
