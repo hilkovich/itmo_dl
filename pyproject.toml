@@ -19,6 +19,7 @@ torchvision = "^0.20.1"
 pytorch-lightning = "^2.5.0.post0"
 tensorboardx = "^2.6.2.2"
 tensorboard = "^2.18.0"
+transformers = "^4.48.1"
 
 
 [tool.poetry.group.dev.dependencies]
